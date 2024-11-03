@@ -44,3 +44,4 @@ This repository serves as a comprehensive collection of all `Java programming pr
 
 
 ## 05. Loops (Flow Control)
+01. [Loops Basics](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Variable%20and%20DataType/JavaVariable.java)
